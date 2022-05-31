@@ -16,7 +16,7 @@ body{
 @media only screen and(orientation:potrait){
     .container{
         display: grid;
-        grid-template-rows: auto ;
+        grid-template-columns: auto ;
         gap:0;
     }
 }
